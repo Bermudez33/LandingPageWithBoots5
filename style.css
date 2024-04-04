@@ -1,9 +1,9 @@
 body {
   background-image: url("https://coolbackgrounds.io/images/backgrounds/index/ranger-4df6c1b6.png");
+  background-position: center center;
   background-repeat: no-repeat;
-  background-position: inherit;
-  background-size:cover;
-  background-color: #9EC8B9;
+  background-attachment: fixed;
+  background-size: cover;
 
 }
 
@@ -19,9 +19,3 @@ body {
   color: black;
 }
 
-
-
-
-.bg-img {
-
-}
